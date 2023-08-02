@@ -1,0 +1,4 @@
+com\project\Application.class
+com\project\configuration\CustomizeAuthenticationSuccessHandler.class
+com\project\controller\LoginController.class
+com\project\configuration\SecurityConfiguration.class
